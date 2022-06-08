@@ -1,0 +1,76 @@
+main{
+    background-color: rgb(50, 158, 201);
+    padding:  80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+height: 20px;
+}
+
+#caja{
+    background-color: pink;
+    height: 600px;
+    width: 500px;
+    border: solid;
+    border-radius: 10%;
+    margin: 20px;
+}
+.imagen { 
+   width: 100%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    height: 400px;
+}
+header{
+    background-color: rgb(211, 150, 226);
+    text-align: center;
+    padding: 10px;
+    margin:  20px 0px 20px 0px;
+}
+#menu li{
+    display: inline;
+    padding: 3px;
+    background-color: rgb(91, 100, 100);
+    margin: 40px;
+    border-radius: 10%;
+    border: solid;
+    border-color:rgb(204, 196, 196);
+    font-size: 0.7cm;
+}
+body{
+    background-color: rgb(94, 92, 92);
+}
+
+.icono {
+    display: flex;
+    justify-content: right;
+    margin-right: 35px;
+    margin-bottom: 40px;
+
+}
+.contacto{
+    margin: 10px;
+    
+    
+}
+#cuerpo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+input,textarea{
+    background-color:rgb(184, 154, 212);
+    border-radius: 10%;
+    border: solid;
+    border-color: rgb(88, 94, 94);
+    font-size: 0.5cm;
+}
+label{
+    display: table-caption;
+    font-size: 0.5cm;
+    
+}

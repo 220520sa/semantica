@@ -1,0 +1,169 @@
+header {
+    padding: 20px;
+
+    justify-content: center;
+    margin: 10px;
+    display: flex;
+}
+
+main {
+    background-color: rgb(252, 252, 252);
+    margin: 10px 100px 10px 100px;
+    height: 180vh;
+
+}
+
+footer {
+
+    background-color: rgb(62, 58, 65);
+    padding: 100px;
+    margin: 10px;
+    background-image: url(https://image.shutterstock.com/shutterstock/photos/269101580/display_1500/stock-vector-beautiful-hand-drawn-illustration-pizza-on-the-chalkboard-269101580.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pizze {
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+
+}
+
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/pizza-salchichones-sabrosa-fondo-concreto-negro_79782-103.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    padding: 30px;
+
+}
+
+#menu li {
+    display: inline;
+    height: 100px;
+    padding: 3px;
+    background-color: rgb(91, 100, 100);
+    margin: 40px;
+    border-radius: 10%;
+    border: solid;
+    border-color: rgb(204, 196, 196);
+    font-size: 1cm;
+
+
+}
+
+img {
+    height: 40px;
+    vertical-align: text-top;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+#ima {
+    border-radius: 100%;
+    height: 90px;
+    display: flex;
+   
+}
+
+#piz {
+    display: flex;
+    justify-content: center;
+    border-bottom: 5px solid rgb(122, 117, 117);
+}
+
+
+
+.foot {
+    height: 30px;
+    vertical-align: text-bottom;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 3px solid red;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+form{
+    margin: 50px;
+}
+.tamaño{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    
+}
+.tipo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    right: 10px;
+}
+.contenido {
+    display: flex;
+    justify-content: space-between;
+}
+.patas{
+    background-color: rgb(100, 100, 100);
+    border-radius: 10%;
+    margin-top: 10px;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px 0px 0px;
+}
+.info{
+    display: flex;
+}
+
+#nombre{
+    background-color: aquamarine;
+    border-radius: 10%;
+    font-size: 3vh;
+}
+#coment{
+    background-color: rgb(173, 170, 170);
+    border-radius: 5%;
+}
+#muzza{
+    height: 170px;
+}
+.pedido{
+    text-align: center;
+    background-color: rgb(226, 74, 74);
+    width: 60vh;
+    font-size: 3vh;
+    margin: 20px;
+    border-radius: 10cm;
+}
+.confirmar{
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+}
+#button{
+    font-size: 2vh;
+    width: 30vh;
+}
+.la{
+    display: flex;
+    background-color: aqua;
+    border-radius: 10%;
+    width: 10vh;
+    margin-bottom: 10px;
+}
+

@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: rgb(177, 203, 226);
+}
+h2{
+    text-align: center;
+    font-size: 1cm;
+}
+header{
+    border: solid;
+    background-color: antiquewhite;
+}
+main{
+    display: flex;
+}
+body{
+    background-color: rgb(141, 118, 118);
+}
+#colum1{
+    background-color: pink;
+    height: 100vh;
+    width: 100%;
+}
+#colum2{
+    background-color: rgb(250, 166, 180);
+    height: 100vh;
+    width: 100%;
+}
+#colum3{
+    background-color: rgb(253, 131, 152);
+    height: 100vh;
+    width: 100%;
+}
+#colum4{
+    background-color: rgb(253, 108, 132);
+    height: 100vh;
+    width: 100%;
+}
+#colum5{
+    background-color: rgb(252, 64, 95);
+    height: 100vh;
+    width: 100%;
+}
+#colum6{
+    background-color: rgb(247, 48, 81);
+    height: 100vh;
+    width: 100%;
+}
